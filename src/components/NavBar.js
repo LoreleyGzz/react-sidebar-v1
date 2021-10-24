@@ -41,7 +41,7 @@ function NavBar() {
         </nav>
         </IconContext.Provider>
         </>
-    )
+    );
 }
 
-export default NavBar
+export default NavBar;

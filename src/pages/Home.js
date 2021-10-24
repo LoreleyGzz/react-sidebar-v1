@@ -2,10 +2,10 @@ import React from 'react'
 
 function Home() {
     return (
-        <div>
-            
+        <div className='home'> 
+            <h1>HOME</h1>
         </div>
-    )
+    );
 }
 
-export default Home
+export default Home;

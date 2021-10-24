@@ -70,3 +70,9 @@
 span{
     margin-left: 16px;
 }
+
+#rectangle{
+    width:200px;
+    height:100px;
+    background:blue;
+}
